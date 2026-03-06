@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Hello, I'm Lakeeshan Sithumina Ranathunga
 
-<!--
-**Lakeeshan0402/Lakeeshan0402** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Major:** Software Engineering
+🎂 **Age:** 22
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am a Software Engineering student who is passionate about **web development**. I enjoy learning new technologies and building modern, responsive web applications.
+
+## Interests
+
+* 🌐 Web Development
+* 💻 Learning new programming technologies
+* 🚀 Building useful and creative web projects
+
+## Goals
+
+My goal is to continuously improve my development skills and contribute to exciting software projects.
+
+---
+
+⭐ Always learning, always building.
