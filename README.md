@@ -3,20 +3,20 @@
 🎓 **Major:** Software Engineering
 🎂 **Age:** 22
 
-## About Me
+## 👨‍💻 About Me
 
-I am a Software Engineering student who is passionate about **web development**. I enjoy learning new technologies and building modern, responsive web applications.
+I am a Software Engineering student with a strong passion for **web development**. I enjoy learning modern technologies and building responsive, user-friendly web applications. I am constantly improving my technical skills and working on projects that help me grow as a developer.
 
-## Interests
+## 🚀 Interests
 
 * 🌐 Web Development
 * 💻 Learning new programming technologies
-* 🚀 Building useful and creative web projects
+* 🛠️ Building creative and practical web applications
 
-## Goals
+## 🎯 Professional Goal
 
-My goal is to continuously improve my development skills and contribute to exciting software projects.
+My goal is to become a skilled software developer by gaining hands-on experience, contributing to real-world projects, and continuously expanding my knowledge in modern web technologies.
 
 ---
 
-⭐ Always learning, always building.
+⭐ *Always learning. Always building.*
